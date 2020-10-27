@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 22690,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-windows-azure-vms-to-an-availability-set-and-load-balanced-on-an-endpoint/master/New-AzureRedundantVm.ps1",
+    "DownloadCount": 2377,
+    "Id": "Create-Windows-Azure-VMs-244bd3cb",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 322,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Deploy a specified number of Virtual Machines based on a given image name.  The Virtual Machines are placed in the same availability set and load balanced on a given endpoint name.",
+    "Title": "Deploy Windows Azure VMs to an Availability Set and Load Balanced on an Endpoint",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-windows-azure-vms-to-an-availability-set-and-load-balanced-on-an-endpoint",
+    "UserTags": "Provisioning"
+}
